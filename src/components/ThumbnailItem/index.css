@@ -1,0 +1,18 @@
+.selectedli {
+  list-style-type: none;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.li {
+  opacity: 0.5;
+  list-style-type: none;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
